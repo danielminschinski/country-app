@@ -14,7 +14,6 @@
     "redux": "^4.0.4"
   },
   "scripts": {
-    "react-scripts": "^3.3.0",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -36,7 +35,7 @@
     ]
   },
   "devDependencies": {
-    
+    "react-scripts": "^3.3.0",
     "redux-devtools": "^3.5.0",
     "redux-devtools-dock-monitor": "^1.1.3",
     "redux-devtools-log-monitor": "^1.4.0"
